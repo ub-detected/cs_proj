@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Nizamutdinov_Project_Library">
+      <HintPath>..\..\Nizamutdinov_Project_Library\Nizamutdinov_Project_Library\bin\Debug\net8.0\Nizamutdinov_Project_Library.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

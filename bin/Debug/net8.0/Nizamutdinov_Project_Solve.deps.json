@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Nizamutdinov_Project_Solve/1.0.0": {
+        "runtime": {
+          "Nizamutdinov_Project_Solve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nizamutdinov_Project_Solve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
